@@ -1,0 +1,251 @@
+@font-face {
+  font-family: "Canaro Book";
+  src: url("/fonts/Canaro-Bold.woff2") format("woff2"),
+    url("/fonts/Canaro-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-BlackItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-Black.woff2") format("woff2"),
+    url("/fonts/Canaro-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-ExtraLightItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-ExtraBold.woff2") format("woff2"),
+    url("/fonts/Canaro-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro Book";
+  src: url("/fonts/Canaro-BoldItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-ExtraLight.woff2") format("woff2"),
+    url("/fonts/Canaro-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro Book";
+  src: url("/fonts/Canaro-Book.woff2") format("woff2"),
+    url("/fonts/Canaro-Book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-ExtraBoldItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-ExtraBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro Book";
+  src: url("/fonts/Canaro-BookItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-BookItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-SemiBoldItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-ThinItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-SemiBold.woff2") format("woff2"),
+    url("/fonts/Canaro-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-Medium.woff2") format("woff2"),
+    url("/fonts/Canaro-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-Light.woff2") format("woff2"),
+    url("/fonts/Canaro-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-MediumItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-LightItalic.woff2") format("woff2"),
+    url("/fonts/Canaro-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Canaro";
+  src: url("/fonts/Canaro-Thin.woff2") format("woff2"),
+    url("/fonts/Canaro-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-BlackComp.woff2") format("woff2"),
+    url("/fonts/Interstate-BlackComp.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-BoldCond.woff2") format("woff2"),
+    url("/fonts/Interstate-BoldCond.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-BlackCond.woff2") format("woff2"),
+    url("/fonts/Interstate-BlackCond.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-RegularComp.woff2") format("woff2"),
+    url("/fonts/Interstate-RegularComp.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-LightCond.woff2") format("woff2"),
+    url("/fonts/Interstate-LightCond.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-RegularItalic.woff2") format("woff2"),
+    url("/fonts/Interstate-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-ExtraLightItalic.woff2") format("woff2"),
+    url("/fonts/Interstate-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-LightItalic.woff2") format("woff2"),
+    url("/fonts/Interstate-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-UltraBlackComp.woff2") format("woff2"),
+    url("/fonts/Interstate-UltraBlackComp.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Interstate";
+  src: url("/fonts/Interstate-ThinItalic.woff2") format("woff2"),
+    url("/fonts/Interstate-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
