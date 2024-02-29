@@ -31,7 +31,7 @@ const handleSearchAirport = async (event) => {
   const latitude = coords?.value?.latitude?.toString()
   const longitude = coords?.value?.longitude?.toString()
 
-  if (latitude && longitude) {
+  if (latitude && longitude && isFinite(latitude) && isFinite(longitude)) {
     const { locations: locationsByradius } = await useLocationsByRadiusQuery({
       lat: latitude,
       lon: longitude,
