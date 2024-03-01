@@ -9,9 +9,9 @@
       </nav>
     </header>
 
-    <div class="container mx-auto p-4">
-
-      <section class="hero-section bg-gray-500 h-182 pt-12 px-5 pb-5 gap-3">
+    <div class="container mx-auto pt pb-4">
+      
+      <section class="hero-section bg-[url('/public/images/hero-img.jpg')] bg-gray-500 h-182 pt-12 px-5 pb-5 gap-3 bg-cover bg-top">
         <div class="h-34 gap-3 py-2 px mb-10">
           <h1 class="text-3xl font-bold font-serif text-white">Adventures.</h1>
           <h1 class="text-3xl font-bold font-serif text-white">Booked. Easy.</h1>
@@ -126,7 +126,7 @@
             </div>
           </div>
 
-          <button class="h-12 mb-2.5 rounded-md font-medium text-white text-center bg-orange-500 text.xl gap-1.5">
+          <button class="h-12 mb-2.5 rounded-md font-medium text-white text-center bg-[#FF6C0E] text.xl gap-1.5">
             Search
           </button>
 
@@ -134,6 +134,55 @@
         </section>
       </section>
 
+      <section class=" bg-green-50 h-182 ">
+        <section class="flex flex-col gap-4  h-[800px] py-11 px-6">
+          <div class="flex flex-col items-center mb-3.5 h-[102px] " >
+
+            <img class="mb-3.5 h-11 w-[143.96px]" src="/public/images/vibeNobackground.png" alt="Logo">
+            <div class="flex flex-col items-center w-[300pxpx] h-11">
+              <h2 class="w-[300px] font-regular text-xs text-center font-sans bg-color-black">Your trusted travel agency for extraordinary adventures</h2>
+              <h2 class="font-regular text-xs text-center font-sans bg-color-black">organized by seasoned local tour organizers.</h2>
+            </div>            
+          </div>
+          
+          <div class="flex justify-center mb-3.5">
+            <img class="w-auto h-[218px] rounded-2xl bg-center bg-cover" src="/public/images/mountain.png" alt="imagen">
+          </div>
+
+         <div class="mb-3.5 flex justify-center gap-1">
+          <h2 class="font-bold text-xl ">Why</h2>
+          <h2 class="font-bold text-xl text-lime-600 italic">Vibe Adventure?</h2>
+         </div> 
+          
+          <div class="grid grid-cols-2 place-items-center gap-7 mx-1">
+            <div class="flex flex-col justify-center items-center gap-1">
+              <img class="w-10 h-10" src="/public/images/top-tours.png" alt="icon">
+              <h2 class="text-center text-base font-semibold text-lime-600 leading-5">Top Tour</h2>
+              <p class="text-xs font-medium text-center leading-3.5 tracking-wide">Our rigorous screening process guarantees that you will choose among the finest tours and travel packages worldwide.</p>
+            </div>
+
+            <div class="flex flex-col justify-center items-center gap-1">
+              <img class="w-10 h-10" src="/public/images/top-tours.png" alt="icon">
+              <h2 class="text-center text-base font-semibold text-lime-600 leading-5">Technology</h2>
+              <p class="text-xs font-medium text-center leading-3.5 tracking-wide">Our cutting-edge technology and  travel expertise will bring you unbeatable itineraries at the most competitive prices.</p>
+            </div>
+            
+            <div class="flex flex-col justify-center items-center gap-1"> 
+              <img class="w-10 h-10" src="/public/images/wide-selection.png" alt="icon">
+              <h2 class="text-center text-base font-semibold text-lime-600 leading-5">Wide Selection</h2>
+              <p class="text-xs font-medium text-center leading-3.5 tracking-wide">With 30,000+ organized adventures around the world, you can definitely find your dream trip!</p>
+            </div>
+
+            <div class="flex flex-col justify-center items-center gap-1">
+              <img class="w-10 h-10" src="/public/images/easy-booking.png" alt="icon">
+              <h2 class="text-center text-base font-semibold text-lime-600 leading-5">Easy Booking</h2>
+              <p class="text-xs font-medium text-center leading-3.5 tracking-wide">Book everything you need in one place: adventure, transportation, insurance, and more!</p>
+            </div>
+
+          </div>
+        </section>
+        
+      </section>
 
     </div>
   </div>
